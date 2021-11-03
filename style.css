@@ -347,12 +347,12 @@ a:hover {
         flex-direction: column 
     }
 
-    .constumes, .decor {
+    .costumes, .decors {
         position: initial;
         height: auto
     }
 
-    .constumes-info, .decor-info {
+    .costumes-info, .decors-info {
         box-sizing: border-box;
         position: initial;
         top: 0;
